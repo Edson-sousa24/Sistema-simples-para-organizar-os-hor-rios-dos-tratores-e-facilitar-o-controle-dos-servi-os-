@@ -1,3 +1,33 @@
+
+
+### Q1: Existe algum estabelecimento/associação/pessoa/instituição que precisaria de um sistema web? Caso sim, descreva.
+
+Sim. O Grupo Sousa Tratores e Serviços é uma empresa que presta serviços utilizando máquinas e tratores agrícolas. Para realizar esses serviços, é necessário organizar informações como clientes, datas, horários, tipo de serviço, trator utilizado e quantidade de horas contratadas.
+
+Atualmente, essas informações podem ser controladas de maneira manual, por meio de anotações, mensagens ou planilhas, o que pode dificultar a organização dos horários dos tratores e o acompanhamento dos serviços.
+
+Dessa forma, foi escolhido o desenvolvimento de um sistema web simples para agendamento de horas de tratores, permitindo centralizar essas informações em uma única aplicação.
+
+### Q2: Quais são as principais consequências e impactos causados pelo problema? Como o sistema web solucionaria ou ajudaria a resolver os impactos?
+
+A falta de um sistema específico para organizar os agendamentos pode causar alguns problemas, como:
+
+dificuldade para visualizar os horários já reservados;
+possibilidade de esquecer ou duplicar agendamentos;
+dificuldade para organizar os serviços dos tratores;
+perda de informações sobre clientes e serviços;
+dificuldade para saber quantas horas foram contratadas;
+maior dependência de anotações manuais;
+dificuldade para consultar rapidamente os serviços programados.
+
+O sistema web ajudará a reduzir esses problemas ao permitir que os dados sejam registrados de forma organizada.
+
+Por meio do sistema, o responsável poderá informar o cliente, data, horário, serviço, trator e quantidade de horas. Após o cadastro, essas informações serão apresentadas em uma tabela de agendamentos, facilitando a visualização e o controle dos serviço
+
+# Q3: Como seria o protótipo da solução? Que tipo de informação o sistema web deveria conter? Como essas informações poderiam ser organizadas no website?
+
+O protótipo consiste em um sistema web desenvolvido para o Grupo Sousa Tratores e Serviços, com o objetivo de facilitar o agendamento e a organização das horas de trabalho dos tratores. O sistema possui um formulário para cadastro de cliente, data, horário, serviço, trator e quantidade de horas. Após o cadastro, os dados são apresentados em uma tabela, permitindo uma visualização organizada dos agendamentos. A primeira versão utiliza React, HTML e CSS, podendo futuramente receber recursos como banco de dados, login, calendário, cadastro de clientes e tratores, valores dos serviços e relatórios.
+
 # Sistema-simples-para-organizar-os-hor-rios-dos-tratores-e-facilitar-o-controle-dos-servi-os-
 Disciplina web1[README.md](https://github.com/user-attachments/files/32559649/README.md)
 
