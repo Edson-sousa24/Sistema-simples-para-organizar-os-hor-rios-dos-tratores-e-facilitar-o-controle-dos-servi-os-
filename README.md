@@ -51,3 +51,5 @@ A segunda etapa poderá evoluir este projeto com:
 - publicação online.
 
 A ideia é manter a Parte 1 pequena e funcional, criando uma base para expansão futura.
+[style.css](https://github.com/user-attachments/files/32559742/style.css)
+
